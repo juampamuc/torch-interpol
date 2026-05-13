@@ -16,7 +16,7 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v4
       with:
         ref: ${{ inputs.tag }}
     - uses: conda-incubator/setup-miniconda@v3
