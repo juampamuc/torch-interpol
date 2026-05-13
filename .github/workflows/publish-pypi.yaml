@@ -1,4 +1,4 @@
-name: pypi
+name: Publish to PyPi
 description: Publish to PyPi
 
 on:

@@ -1,4 +1,4 @@
-name: conda
+name: Publish to Anaconda
 description: Publish to Anaconda
 
 on:
